@@ -2,7 +2,8 @@
 
 # ChainTimer
 
- ![ChainTimer](assets\ChainTimer.png)
+![ChainTimer](https://github.com/ConvertToRGB/ChainTimer/blob/master/assets/ChainTimer.png?raw=true)
+
 
 1.  Задать время. Можно использовать такой формат:
    - 0.5 - задать секунды (50 секунд)
