@@ -1,4 +1,4 @@
- ![APM](https://img.shields.io/badge/python-2.7-green?style=flat-square)  ![APM](https://img.shields.io/apm/l/vim-mode?style=flat-square)
+ ![APM](https://img.shields.io/badge/python-2.7-green)  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # ChainTimer
 
